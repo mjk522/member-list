@@ -1,7 +1,7 @@
 1. Introduction
   1. Purpose of the project
-    * Construct and maintain a membership list of names for *insert company name here*
-  2 Scope of the project
+    * Construct and maintain a membership list of names for Rivi&egrave;re Casino
+  2. Scope of the project
     * This project will consist of creating a membership list with maximum size 100 names.  This project will be completed by December 20th, 2014.  Modules of the project will consist of adding a member to the list, removing a member, editing member information, and searching the list of members.
   3. Objectives and success criteria of the project
     * This project has four primary objectives.
