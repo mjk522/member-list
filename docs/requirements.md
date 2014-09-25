@@ -6,9 +6,13 @@
   3. Objectives and success criteria of the project
     * This project has four primary objectives.
         1. Adding a member: Success Criteria: Completion of module that will add a member to a list.
+          * A full list cannot be added to.  
         2. Removing a member: Success Criteria: Completion of module that will remove a member from a list.
+          * An empty list cannot be deleted from.
+          * Members which do not exist in the list cannot be removed from the list.
         3. Editing a member: Success Criteria: Completion of a module that will edit member information.
         4. Searching for a member: Success Criteria: Completion of a module that will search the list for a member.
+          * Searching for a member who is not in the list will return an empty result.
   4. Definitions, acronyms, and abbreviations
         * RC - Rivi&egrave;re Casino
         * GUI - Graphical User Interface
