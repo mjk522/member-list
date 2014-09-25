@@ -30,7 +30,7 @@
     4. System shall be able to search an existing list to determine if a member exists.  Searchable fields include first name, last name, and member ID.  If multiple hits, the system shall return all results with a GUI select option for the user to pick the correct results.
     5. System shall maintain the ID as a unique identifier for the membership.
     6. System shall be handle all errors to prevent crashing of the program.  GUI shall show the error and direct the user to correct the error.
-    7. Minimum length of a member name shall be 0 characters.
+    7. Minimum length of a member name shall be 1 characters.
     8. Maximum length of a member name shall be 100 characters.
     9. Maximum length of the member list shall be 10^6 entries in length.
     10. Membership data history shall be kept for 100 years.  After 100 years, member data shall be destroyed.
